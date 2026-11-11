@@ -60,13 +60,4 @@ Social platform for sharing cultural memories by region and tag. Uses a Trie for
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umar-dim&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-dim&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 💬 **Open to full-stack and AI/ML software engineering roles.** Reach out at [khanumar394@gmail.com](mailto:khanumar394@gmail.com).
